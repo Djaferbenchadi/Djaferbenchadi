@@ -2,7 +2,7 @@
 
 I'm happy to connect with you, here's some things about me:
 
-- 👀 I’m interested in Pattern Recognition and Medical Images
+- 👀 I’m interested in Pattern Recognition
 
 - 🌱 I’m currently learning about Data and Artificial intelligence
 
